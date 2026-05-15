@@ -30,7 +30,7 @@ List Mode
 ### Via DMS
 
 ```bash
-dms plugins install NiriWindows
+hype plugins install NiriWindows
 ```
 
 ### Via DMS GUI
